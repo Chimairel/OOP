@@ -12,3 +12,4 @@ C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.
 C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.pdb
 C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\ref\TaskOrganizerApp.dll
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.sourcelink.json

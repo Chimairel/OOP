@@ -8,8 +8,6 @@ namespace Models
         public string Position { get; set; }
         public List<int> TaskIds { get; set; } = new List<int>();
 
-        public Employee() { }
-
         public Employee(int id, string firstName, string lastName, string position)
             : base(id, firstName, lastName)
         {

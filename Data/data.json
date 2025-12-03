@@ -1,6 +1,24 @@
 {
-  "Employees": [],
-  "Tasks": [],
-  "NextEmployeeId": 1,
-  "NextTaskId": 1
+  "Employees": [
+    {
+      "Position": "Point Guard",
+      "TaskIds": [],
+      "Id": 1,
+      "FirstName": "Chimairel",
+      "LastName": "Pacaldo",
+      "FullName": "Chimairel Pacaldo"
+    }
+  ],
+  "Tasks": [
+    {
+      "Id": 1,
+      "Title": "Panghugas",
+      "Description": "gago",
+      "AssignedEmployeeId": 1,
+      "IsCompleted": true,
+      "CreatedAt": "2025-12-03T16:05:28.3985318+08:00"
+    }
+  ],
+  "NextEmployeeId": 2,
+  "NextTaskId": 2
 }

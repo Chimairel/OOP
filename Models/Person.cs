@@ -8,8 +8,6 @@ namespace Models
 
         public string FullName => $"{FirstName} {LastName}";
 
-        protected Person() { }
-
         protected Person(int id, string firstName, string lastName)
         {
             Id = id;
