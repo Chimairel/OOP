@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\bin\Debug\net9.0\TaskOrganizerApp.exe
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\bin\Debug\net9.0\TaskOrganizerApp.deps.json
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\bin\Debug\net9.0\TaskOrganizerApp.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\bin\Debug\net9.0\TaskOrganizerApp.dll
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\bin\Debug\net9.0\TaskOrganizerApp.pdb
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.dll
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\refint\TaskOrganizerApp.dll
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.pdb
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\TaskOrganizerApp.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\School Proj\OOP\TaskOrganizerApp\obj\Debug\net9.0\ref\TaskOrganizerApp.dll
